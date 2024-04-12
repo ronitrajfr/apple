@@ -4,7 +4,7 @@
 
 ### Tech used :
 -  **React** : React. js is an open-source JavaScript library, crafted with precision by Facebook, that aims to simplify the intricate process of building interactive user interfaces.
--  
+  
 -  **Tailwind** : Tailwind CSS is an open source CSS framework.
--  
+  
 -  **gsap** : GSAP allows you to effortlessly animate anything JS can touch. Delivering silky-smooth performance and unmatched support so you can focus on the fun stuff.
